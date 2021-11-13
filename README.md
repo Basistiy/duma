@@ -1,0 +1,1 @@
+This project simulates results of 2021 parlament elections in Russia on poling stations where the official results are doubtful 
